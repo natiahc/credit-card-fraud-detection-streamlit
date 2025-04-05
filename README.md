@@ -39,7 +39,3 @@
 ## Model
 
 The prediction is powered by a Gradient Boosting Classifier model trained on the provided customer churn dataset. The preprocessing steps include scaling numerical features and one-hot encoding categorical features.
-
-## Deployment
-
-This application can be easily deployed using [Streamlit Community Cloud](https://streamlit.io/cloud). Simply create a new app and link it to this GitHub repository, specifying `app.py` as the main file.
